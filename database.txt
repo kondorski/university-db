@@ -1,0 +1,3 @@
+Zenek,Zajdel,93122412373,Warszawa,m,100001
+Konrad,Kar,95050802273,Wrocław,m,100002
+Andrzej,Barwnik,71328769871,Wrocław,m,100003
